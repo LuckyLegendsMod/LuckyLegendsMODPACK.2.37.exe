@@ -1,3 +1,5 @@
+![Stats Diagram](asdasdsda.png)
+
 # 🚀 Latest Patch Notes
 
 ## ✨ New Features
@@ -9,9 +11,6 @@
 ## 🛠️ Improvements
 - Updated mob spawn behavior for better pacing  
 - Balanced early-game damage and defense stats  
-
-![Stats Diagram](asdasdsda.png)
-
 - Tweaked loot table chances for smoother progression  
 
 ---
