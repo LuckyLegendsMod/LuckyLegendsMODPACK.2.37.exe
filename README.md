@@ -10,7 +10,7 @@
 - Updated mob spawn behavior for better pacing  
 - Balanced early-game damage and defense stats  
 
-![Stats Diagram](asdsdasda.png)
+![Stats Diagram](assets/asdsdasda.png)
 
 - Tweaked loot table chances for smoother progression  
 
