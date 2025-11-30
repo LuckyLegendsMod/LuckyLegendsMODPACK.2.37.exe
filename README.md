@@ -1,4 +1,4 @@
-![Stats Diagram](asdasdsda.png)
+![Stats Diagram](luckylogo.png)
 
 # 🚀 Latest Patch Notes
 
